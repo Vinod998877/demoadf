@@ -1,0 +1,9 @@
+{
+	"name": "2305-akk-adfdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7beabc59-897a-4d02-80d1-77e48d9e234d",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
